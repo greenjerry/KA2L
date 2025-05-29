@@ -1,0 +1,11 @@
+{
+  "run_name": "10k_llama3.1_8b_instruct",
+  "model_name": "/data/LLM/Llama-3.1-8B-Instruct",
+  "save_path": "/data/yinhx/saves/KnowledgeEdgeDetect/10k_llama3.1_8b_instruct",
+  "dataset_path": "/data/yinhx/dataset/trivia_qa_rc_nocontext_after20000",
+  "log_level": "DEBUG",
+  "entailment_deberta_path": "/data/LLM/deberta-v2-xlarge-mnli",
+  "dataset_type": "trivia_qa",
+  "dataset_data_sample_size": 40000,
+  "embeddings_from_layer_n": 31
+}

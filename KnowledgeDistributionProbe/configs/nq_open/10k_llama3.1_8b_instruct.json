@@ -1,0 +1,10 @@
+{
+  "run_name": "10k_llama3.1_8b_instruct",
+  "model_name": "/data/LLM/Llama-3.1-8B-Instruct",
+  "save_path": "/data/yinhx/saves/KnowledgeEdgeDetect/nq_open/10k_llama3.1_8b_instruct",
+  "dataset_path": "/data/yinhx/dataset/nq_open",
+  "log_level": "DEBUG",
+  "entailment_deberta_path": "/data/LLM/deberta-v2-xlarge-mnli",
+  "dataset_type": "nq_open",
+  "dataset_data_sample_size": 10000
+}
